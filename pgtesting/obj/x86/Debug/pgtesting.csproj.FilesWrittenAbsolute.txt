@@ -1,0 +1,13 @@
+/Users/james/Projects/pgtesting/pgtesting/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/Nancy.dll
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/Owin.dll
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/Nancy.Owin.dll
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/Npgsql.dll
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/Microsoft.Owin.Host.HttpListener.dll
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/Microsoft.Owin.dll
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/Microsoft.Owin.Hosting.dll
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/pgtesting.exe.config
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/pgtesting.exe.mdb
+/Users/james/Projects/pgtesting/pgtesting/bin/Debug/pgtesting.exe
+/Users/james/Projects/pgtesting/pgtesting/obj/x86/Debug/pgtesting.exe
+/Users/james/Projects/pgtesting/pgtesting/obj/x86/Debug/pgtesting.exe.mdb
